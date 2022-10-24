@@ -6,3 +6,8 @@ This Repository is inspired From [jackbrycesmith/laravel-caprover-template](http
 
 
 ### Develop Environment With Caprover
+
+
+```
+docker image build -t junzo/laravel-devenv:php8.0 ./
+```
